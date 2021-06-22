@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Apple.qml</file>
+        <file>Body.qml</file>
+        <file>Head.qml</file>
+        <file>Background.qml</file>
+        <file>Score_counter.qml</file>
+        <file>End_window.qml</file>
+        <file>My_Button.qml</file>
+    </qresource>
+</RCC>
